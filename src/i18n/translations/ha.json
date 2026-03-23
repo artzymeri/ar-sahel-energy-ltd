@@ -1,0 +1,86 @@
+{
+  "nav": {
+    "home": "Gida",
+    "about": "Game Da Mu",
+    "services": "Ayyukanmu",
+    "contact": "Tuntuɓe Mu",
+    "getQuote": "Nemi Farashin"
+  },
+  "hero": {
+    "tagline": "Samar da Makamashi na Gaba ga Afirka",
+    "title1": "Shigo da Fitar da",
+    "title2": "Kayayyakin Man Fetur",
+    "title3": "da Makamashi",
+    "description": "A.R. Sahel Energy Ltd kamfani ne na makamashi da ke ƙware wajen shigo da fitar da kayayyakin man fetur da makamashi a duk faɗin Yammacin Afirka da yankin Sahel.",
+    "cta": "Duba Ayyukanmu",
+    "ctaSecondary": "Tuntuɓe Mu",
+    "stat1Value": "10+",
+    "stat1Label": "Ƙasashe",
+    "stat2Value": "24/7",
+    "stat2Label": "Ayyuka",
+    "stat3Value": "100%",
+    "stat3Label": "Aminci"
+  },
+  "about": {
+    "tagline": "Su Wane Ne Mu",
+    "title": "Samar da Hanyoyin Makamashi a Sahel",
+    "description": "An yi rajista da Hukumar Harkokin Kamfanoni (RC 8589712), A.R. Sahel Energy Ltd tana da hedikwata a Sokoto, Nigeria. Mun jajirce wajen tabbatar da ingantaccen sarƙar samar da makamashi a duk faɗin Yammacin Afirka.",
+    "mission": "Manufarmu",
+    "missionText": "Zama abokin ciniki na makamashi mafi aminci kuma mafi inganci a yankin Sahel, muna isar da kayayyakin man fetur da makamashi na inganci.",
+    "vision": "Hangen Nesanmu",
+    "visionText": "Canza hanyar samun makamashi a duk Yammacin Afirka, ƙirƙirar hanyoyin samar da abin dogaro waɗanda ke ƙarfafa haɓakar tattalin arziki.",
+    "values": "Ƙimomin Mu",
+    "valuesText": "Gaskiya, aminci, da ƙwarewa su ne tushen kowane ciniki da alaƙar da muke ginawa."
+  },
+  "services": {
+    "tagline": "Abin Da Muke Yi",
+    "title": "Cikakkun Hanyoyin Makamashi",
+    "description": "Daga shigo da fitar da man fetur zuwa rarraba kayayyakin makamashi, muna ba da cikakkun hanyoyin magance matsalolin makamashi.",
+    "service1Title": "Shigo da Man Fetur",
+    "service1Desc": "Tsarin nemo da shigo da kayayyakin man fetur masu inganci daga masu samarwa a duniya.",
+    "service2Title": "Fitar da Makamashi",
+    "service2Desc": "Ingantattun ayyukan fitar da kayayyakin da ke haɗa kayayyakin makamashi na yankin Sahel zuwa kasuwannin duniya.",
+    "service3Title": "Hanyar Rarraba",
+    "service3Desc": "Babbar hanyar rarraba da ke tabbatar da isar da kaya cikin lokaci a duk Nigeria da ƙasashen maƙwabta.",
+    "service4Title": "Gudanar da Sarƙar Samarwa",
+    "service4Desc": "Inganta sarƙar samarwa daga farko zuwa ƙarshe don tabbatar da kwararar kayayyakin makamashi.",
+    "service5Title": "Tabbatar da Inganci",
+    "service5Desc": "Tsauraran ƙa'idojin kula da inganci waɗanda ke tabbatar da cewa kowane kaya ya cika ƙa'idojin ƙasa da ƙasa.",
+    "service6Title": "Ayyukan Ba da Shawara",
+    "service6Desc": "Shawarar ƙwararru kan yanayin kasuwar makamashi, bin doka, da tsara dabaru don kasuwancin makamashi."
+  },
+  "regions": {
+    "tagline": "Inda Muke Aiki",
+    "title": "Hidima a Tsakiyar Afirka",
+    "description": "Ayyukanmu sun bazu a duk Yammacin Afirka da babban yankin Sahel, suna haɗa kasuwannin makamashi.",
+    "nigeria": "Najeriya",
+    "niger": "Nijar",
+    "chad": "Chadi",
+    "cameroon": "Kamaru",
+    "benin": "Binin",
+    "mali": "Mali"
+  },
+  "contact": {
+    "tagline": "Tuntuɓe Mu",
+    "title": "Mu Samar da Makamashi ga Kasuwancinka",
+    "description": "Kuna shirye ku tattauna buƙatun makamashi? Tuntuɓe mu mu bincika yadda za mu yi aiki tare.",
+    "phone": "Waya",
+    "email": "Imel",
+    "address": "Adireshi",
+    "addressValue": "No. 10 Aliyu Jodi Road, Sokoto",
+    "formName": "Sunanka",
+    "formEmail": "Imelinka",
+    "formMessage": "Saƙonka",
+    "formSubmit": "Aika Saƙo",
+    "directorName": "Rufai Arzika",
+    "directorTitle": "Darakta"
+  },
+  "footer": {
+    "companyDesc": "A.R. Sahel Energy Ltd — Shigo da Fitar da Kayayyakin Man Fetur & Makamashi. Samar da makamashi na gaba ga Afirka daga zuciyar Sahel.",
+    "quickLinks": "Hanyoyin Sauri",
+    "contactInfo": "Bayanan Tuntuɓa",
+    "followUs": "Bi Mu",
+    "rights": "Duk haƙƙoƙi an kiyaye su.",
+    "rc": "RC 8589712"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "services": "Services",
+    "contact": "Contact",
+    "getQuote": "Demander un Devis"
+  },
+  "hero": {
+    "tagline": "Alimenter l'Avenir Énergétique de l'Afrique",
+    "title1": "Import & Export de",
+    "title2": "Produits Pétroliers",
+    "title3": "& Énergétiques",
+    "description": "A.R. Sahel Energy Ltd est une entreprise énergétique de premier plan spécialisée dans l'import-export de produits pétroliers et énergétiques à travers l'Afrique de l'Ouest et la région du Sahel.",
+    "cta": "Découvrir Nos Services",
+    "ctaSecondary": "Contactez-Nous",
+    "stat1Value": "10+",
+    "stat1Label": "Pays Desservis",
+    "stat2Value": "24/7",
+    "stat2Label": "Opérations",
+    "stat3Value": "100%",
+    "stat3Label": "Fiabilité"
+  },
+  "about": {
+    "tagline": "Qui Sommes-Nous",
+    "title": "Solutions Énergétiques à Travers le Sahel",
+    "description": "Enregistrée auprès de la Commission des Affaires Corporatives (RC 8589712), A.R. Sahel Energy Ltd a son siège à Sokoto, Nigeria. Nous nous engageons à assurer des chaînes d'approvisionnement énergétiques fiables à travers l'Afrique de l'Ouest.",
+    "mission": "Notre Mission",
+    "missionText": "Être le partenaire commercial énergétique le plus fiable et efficace de la région du Sahel, livrant des produits pétroliers et énergétiques premium avec une fiabilité inégalée.",
+    "vision": "Notre Vision",
+    "visionText": "Transformer l'accessibilité énergétique à travers l'Afrique de l'Ouest, créant des réseaux d'approvisionnement durables qui alimentent la croissance économique.",
+    "values": "Nos Valeurs",
+    "valuesText": "L'intégrité, la fiabilité et l'excellence sont la pierre angulaire de chaque transaction et relation que nous construisons."
+  },
+  "services": {
+    "tagline": "Ce Que Nous Faisons",
+    "title": "Solutions Énergétiques Complètes",
+    "description": "De l'import-export de pétrole à la distribution de produits énergétiques, nous offrons des solutions de bout en bout.",
+    "service1Title": "Import de Pétrole",
+    "service1Desc": "Approvisionnement stratégique et importation de produits pétroliers de haute qualité auprès de fournisseurs mondiaux.",
+    "service2Title": "Export d'Énergie",
+    "service2Desc": "Opérations d'export efficaces reliant les produits énergétiques de la région du Sahel aux marchés internationaux.",
+    "service3Title": "Réseau de Distribution",
+    "service3Desc": "Infrastructure de distribution étendue assurant une livraison rapide à travers le Nigeria et les pays voisins.",
+    "service4Title": "Gestion de la Chaîne",
+    "service4Desc": "Optimisation de bout en bout de la chaîne d'approvisionnement pour un flux sans faille des produits énergétiques.",
+    "service5Title": "Assurance Qualité",
+    "service5Desc": "Normes rigoureuses de contrôle qualité garantissant que chaque produit respecte les spécifications internationales.",
+    "service6Title": "Services de Conseil",
+    "service6Desc": "Conseil expert sur les tendances du marché énergétique, la conformité réglementaire et la planification stratégique."
+  },
+  "regions": {
+    "tagline": "Notre Portée",
+    "title": "Au Service du Cœur de l'Afrique",
+    "description": "Nos opérations s'étendent à travers l'Afrique de l'Ouest et la grande région du Sahel, connectant les marchés énergétiques.",
+    "nigeria": "Nigeria",
+    "niger": "Niger",
+    "chad": "Tchad",
+    "cameroon": "Cameroun",
+    "benin": "Bénin",
+    "mali": "Mali"
+  },
+  "contact": {
+    "tagline": "Contactez-Nous",
+    "title": "Alimentons Votre Entreprise",
+    "description": "Prêt à discuter de vos besoins énergétiques ? Contactez-nous et explorons comment nous pouvons collaborer.",
+    "phone": "Téléphone",
+    "email": "E-mail",
+    "address": "Adresse",
+    "addressValue": "No. 10 Aliyu Jodi Road, Sokoto",
+    "formName": "Votre Nom",
+    "formEmail": "Votre E-mail",
+    "formMessage": "Votre Message",
+    "formSubmit": "Envoyer le Message",
+    "directorName": "Rufai Arzika",
+    "directorTitle": "Directeur"
+  },
+  "footer": {
+    "companyDesc": "A.R. Sahel Energy Ltd — Import & Export de Produits Pétroliers & Énergétiques. Alimenter l'avenir énergétique de l'Afrique depuis le cœur du Sahel.",
+    "quickLinks": "Liens Rapides",
+    "contactInfo": "Coordonnées",
+    "followUs": "Suivez-Nous",
+    "rights": "Tous droits réservés.",
+    "rc": "RC 8589712"
+  }
+}

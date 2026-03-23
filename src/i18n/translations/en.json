@@ -1,0 +1,86 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "contact": "Contact",
+    "getQuote": "Get a Quote"
+  },
+  "hero": {
+    "tagline": "Powering Africa's Energy Future",
+    "title1": "Import & Export of",
+    "title2": "Petroleum & Energy",
+    "title3": "Products",
+    "description": "A.R. Sahel Energy Ltd is a leading energy company specializing in the import and export of petroleum and energy products across West Africa and the Sahel region.",
+    "cta": "Explore Our Services",
+    "ctaSecondary": "Contact Us",
+    "stat1Value": "10+",
+    "stat1Label": "Countries Served",
+    "stat2Value": "24/7",
+    "stat2Label": "Operations",
+    "stat3Value": "100%",
+    "stat3Label": "Reliability"
+  },
+  "about": {
+    "tagline": "Who We Are",
+    "title": "Driving Energy Solutions Across the Sahel",
+    "description": "Registered with the Corporate Affairs Commission (RC 8589712), A.R. Sahel Energy Ltd is headquartered in Sokoto, Nigeria. We are committed to ensuring reliable energy supply chains across West Africa, connecting markets and powering communities.",
+    "mission": "Our Mission",
+    "missionText": "To be the most trusted and efficient energy trading partner in the Sahel region, delivering premium petroleum and energy products with unmatched reliability.",
+    "vision": "Our Vision",
+    "visionText": "To transform energy accessibility across West Africa, creating sustainable supply networks that power economic growth and improve lives.",
+    "values": "Our Values",
+    "valuesText": "Integrity, reliability, and excellence form the cornerstone of every transaction and relationship we build."
+  },
+  "services": {
+    "tagline": "What We Do",
+    "title": "Comprehensive Energy Solutions",
+    "description": "From petroleum import and export to energy product distribution, we offer end-to-end solutions for the energy sector.",
+    "service1Title": "Petroleum Import",
+    "service1Desc": "Strategic sourcing and importation of high-quality petroleum products from global suppliers to meet regional demand.",
+    "service2Title": "Energy Export",
+    "service2Desc": "Efficient export operations connecting Sahel region energy products to international markets worldwide.",
+    "service3Title": "Distribution Network",
+    "service3Desc": "Extensive distribution infrastructure ensuring timely delivery across Nigeria and neighboring countries.",
+    "service4Title": "Supply Chain Management",
+    "service4Desc": "End-to-end supply chain optimization for seamless energy product flow from source to destination.",
+    "service5Title": "Quality Assurance",
+    "service5Desc": "Rigorous quality control standards ensuring every product meets international specifications and safety requirements.",
+    "service6Title": "Consulting Services",
+    "service6Desc": "Expert advisory on energy market trends, regulatory compliance, and strategic planning for energy businesses."
+  },
+  "regions": {
+    "tagline": "Our Reach",
+    "title": "Serving the Heart of Africa",
+    "description": "Our operations span across West Africa and the greater Sahel region, connecting energy markets and ensuring reliable supply chains.",
+    "nigeria": "Nigeria",
+    "niger": "Niger",
+    "chad": "Chad",
+    "cameroon": "Cameroon",
+    "benin": "Benin",
+    "mali": "Mali"
+  },
+  "contact": {
+    "tagline": "Get in Touch",
+    "title": "Let's Power Your Business",
+    "description": "Ready to discuss your energy needs? Reach out to us and let's explore how we can work together.",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "addressValue": "No. 10 Aliyu Jodi Road, Sokoto",
+    "formName": "Your Name",
+    "formEmail": "Your Email",
+    "formMessage": "Your Message",
+    "formSubmit": "Send Message",
+    "directorName": "Rufai Arzika",
+    "directorTitle": "Director"
+  },
+  "footer": {
+    "companyDesc": "A.R. Sahel Energy Ltd — Import & Export of Petroleum & Energy Products. Powering Africa's energy future from the heart of the Sahel.",
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Info",
+    "followUs": "Follow Us",
+    "rights": "All rights reserved.",
+    "rc": "RC 8589712"
+  }
+}
