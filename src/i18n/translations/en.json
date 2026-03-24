@@ -68,6 +68,8 @@
     "email": "Email",
     "address": "Address",
     "addressValue": "No. 10 Aliyu Jodi Road, Sokoto",
+    "addressNiger": "B.P 2481, Talladje, Niamey, Niger",
+    "phoneNiger": "+227 96 56 89 89",
     "formName": "Your Name",
     "formEmail": "Your Email",
     "formMessage": "Your Message",

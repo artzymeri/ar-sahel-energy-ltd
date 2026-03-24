@@ -10,9 +10,16 @@ export default function Contact() {
   const contactInfo = [
     {
       icon: Phone,
-      label: t("contact.phone"),
+      label: `${t("contact.phone")} — Nigeria`,
       value: "09169051668",
       href: "tel:09169051668",
+      color: "emerald",
+    },
+    {
+      icon: Phone,
+      label: `${t("contact.phone")} — Niger`,
+      value: t("contact.phoneNiger"),
+      href: "tel:+22796568989",
       color: "emerald",
     },
     {
@@ -24,8 +31,15 @@ export default function Contact() {
     },
     {
       icon: MapPin,
-      label: t("contact.address"),
+      label: `${t("contact.address")} — Nigeria`,
       value: t("contact.addressValue"),
+      href: "#",
+      color: "amber",
+    },
+    {
+      icon: MapPin,
+      label: `${t("contact.address")} — Niger`,
+      value: t("contact.addressNiger"),
       href: "#",
       color: "amber",
     },
