@@ -34,7 +34,7 @@ Open [http://localhost:3000](http://localhost:3000).
 
 - **Company:** A.R. Sahel Energy Ltd
 - **RC Number:** 8589712
-- **Director:** Rufai Arzika
+- **Director:** Roufai Arzika
 - **Phone:** 09169051668
 - **Email:** roufaiarzika@gmail.com
 - **Address:** No. 10 Aliyu Jodi Road, Sokoto
